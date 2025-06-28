@@ -9,4 +9,4 @@
 
 T(n) = 2*T(n-1) + 3^(n-1) – T(n-1) = 3^(n-1)+T(n-1)
 
-T(1) = 2(one green and one blue cell)
+T(1) = 2 - (one green and one blue cell)
